@@ -11458,6 +11458,7 @@ html {
     font-size: 1.5rem;
   }
 }
+.container 
 .lead {
   font-family: 'Exo 2', sans-serif; margin: 0 10px;}
 .portfolio-description {
@@ -11476,6 +11477,7 @@ html {
 .place img {max-height: 30px;
   margin-right: 5px;
 }
+.divider-custom-icon img {height: 25px;vertical-align: 0%;}
 .text-final {font-size: 200%;}
 .portfolio-logo img {max-height: 120px;}
 .portfolio .portfolio-item {
