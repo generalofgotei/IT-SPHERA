@@ -11533,7 +11533,7 @@ html {
 // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
 font-family: "Nasalization"; 
 // адрес шрифта и тип 
-src: url("../fonts/nasalization-rg.ttf") format("truetype"); 
+src: url("/fonts/nasalization-rg.ttf") format("truetype"); 
 font-style: normal; 
 font-weight: normal; 
 } 
