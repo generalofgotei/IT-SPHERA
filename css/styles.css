@@ -80,13 +80,13 @@
   font-family: 'NasalizationRg-Regular';
   font-style: normal;
   font-weight: normal;
-  src: local('NasalizationRg-Regular'), url('/fonts/nasalization-rg.otf') format('opentype');
+  src: local('NasalizationRg-Regular'), url('../fonts/nasalization-rg.otf') format('opentype');
   }
 @font-face {
   font-family: 'NasalizationRg';
   font-style: normal;
   font-weight: normal;
-  src: url('/fonts/nasalization-rg.woff') format('woff');
+  src: url('../fonts/nasalization-rg.woff') format('woff');
   }
 body {
   margin: 0;
